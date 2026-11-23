@@ -31,3 +31,7 @@ The game's own release gates remain separate. After deployment, the final `/priv
 ## Domain and contact update — 23 November 2026
 
 The owner supplied `playragtag.xyz` and `hi@playragtag.xyz`. The canonical website origin, social metadata and support/privacy email links now use those values. The privacy revision date is 23 November 2026. The publisher name, final content review and live App Store URL remain outstanding; coming-soon and noindex behaviour are unchanged. This configuration update does not configure or verify DNS, mailbox delivery or Vercel domain attachment.
+
+## Publisher and app links — 23 November 2026
+
+Publisher and copyright now use **Scott Dernley**, matching the d-derby / Crash Circuit in-app credit (`WreckCircuit/AboutView.swift`) and App Store copyright copy (`AppStore/listing.md`) at the owner’s explicit request. Ragtag retains its own domain and contact email. All five pages rebuild and the existing website checks pass; generated privacy/footer content contains the name and no missing-publisher placeholder. The website remains in coming-soon mode pending final policy/content review. Ragtag build 23 adds the privacy, support and email links inside its existing grown-up gate.
