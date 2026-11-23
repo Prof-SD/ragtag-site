@@ -1,0 +1,128 @@
+[
+  {
+    "file": "assets/hero.webp",
+    "source": "PlokGame/Resources/ragtag-menu.png",
+    "sourceSHA256": "ae732dbb2689064a8d0079ef6de6392bbb857112ba89cc83acee4fea28864f3c",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/logo.webp",
+    "source": "PlokGame/Resources/Headings/heading-ragtag.png",
+    "sourceSHA256": "0d2c63a70253f7adc63d167a826d8b6987b5870918bfd2924fcb9429a92e62fe",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/milo.webp",
+    "source": "PlokGame/Resources/milo-standing.png",
+    "sourceSHA256": "28c9a57d44fc17822db268a783835a1786969cd8a72fc37510cfb88fc758691a",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/pip.webp",
+    "source": "PlokGame/Resources/friend-pip.png",
+    "sourceSHA256": "ea81841bbe9c7faf2381a4efb07656525e10984259f1a96105b2fc299042ba5a",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/nori.webp",
+    "source": "PlokGame/Resources/friend-nori.png",
+    "sourceSHA256": "aa5af4a414a4e2ef32460648875bae44d8db9be6dd83b9059f78c0151aef7e40",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/tansy.webp",
+    "source": "PlokGame/Resources/friend-tansy.png",
+    "sourceSHA256": "2d63ac013b0eb7aa2c16799bf233b7a193f32af4052090b07b14bf48b8206581",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/lumi.webp",
+    "source": "PlokGame/Resources/friend-lumi.png",
+    "sourceSHA256": "a11f45d50883ae3408bacfecdf0ebae914b1195f2dc02ba75c17d08f2dc5cd11",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/milo-rest.webp",
+    "source": "PlokGame/Resources/milo-rest.png",
+    "sourceSHA256": "a16de43b4e3585c137c88ae978d680c50189703b43cedff1db5dc8cd5147bed6",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/pip-rest.webp",
+    "source": "PlokGame/Resources/pip-rest.png",
+    "sourceSHA256": "bb60d26bc67da9bd34a73b561adb2488e528081b25c674f53fd32bdd95d0f46f",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/picnic.webp",
+    "source": "PlokGame/Resources/picnic-invitation-v22.png",
+    "sourceSHA256": "cfb7e6d853ef250f42c7b0daf2156428f966f49ae8f293465fdfdd847d3fec6c",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/home.webp",
+    "source": "PlokGame/Resources/MenuScenes/home-garden-v21.png",
+    "sourceSHA256": "d31dea2f797979ebd4ab53d8d24ff0036897ccce2cdf3e8c622b14debf0c1598",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/linen.webp",
+    "source": "PlokGame/Resources/MenuScenes/menu-linen-v21.png",
+    "sourceSHA256": "58c920349712c4a0eb4ba02b2d8c76b1ae8bf6dff9df21bab6927b2f6b5e0f37",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/meadow.webp",
+    "source": "PlokGame/Resources/island-polished.png",
+    "sourceSHA256": "e67e4992587692e7587aeb6290d79146f0d915a7e942c156626e97d5ae0948d7",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/ribbon.webp",
+    "source": "PlokGame/Resources/world-ribbon.png",
+    "sourceSHA256": "4f6c1bb09656a3663219be879014d711d7d4cf5c46ea5d23d36f1fe86c7e773f",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/cloud.webp",
+    "source": "PlokGame/Resources/world-cloud.png",
+    "sourceSHA256": "9e005900e37aaf97e73ef6a858557aaf3f2b76b265706e1207bf70f0e2f28983",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/lantern.webp",
+    "source": "PlokGame/Resources/world-lantern.png",
+    "sourceSHA256": "b22e924b797f4db53ddf86a0d5a55a595404ef9739b85a2cc8500cc56b163f1b",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/gameplay.webp",
+    "source": "Documentation/Playtest-Build22/phone/play22-opening.png",
+    "sourceSHA256": "2de0734ca6d314c668b6db8eeb5066ae731c3a6c8392b26728669803d1afbe01",
+    "use": "Actual native game capture"
+  },
+  {
+    "file": "assets/sharing.webp",
+    "source": "Documentation/Playtest-Build22/phone/kindness-sharing.png",
+    "sourceSHA256": "e25e8931be0b81557435842e12b8925e0c6e94ba05b0a611c349874f68e43d6e",
+    "use": "Actual native game capture"
+  },
+  {
+    "file": "assets/garden.webp",
+    "source": "Documentation/Menus-Build21/phone/menu21-garden-together.png",
+    "sourceSHA256": "a33d11e157bac9dffbb1272691bfe0bdd43a843255575eedeebf5348ee6c986d",
+    "use": "Actual native game capture"
+  },
+  {
+    "file": "assets/peach.webp",
+    "source": "PlokGame/Resources/peach-v22.png",
+    "sourceSHA256": "0e676e4d3e1b64aa6657e47f7eb8e261b029a7bf4ea6a3c57faac53377ef5e6a",
+    "use": "Original game artwork"
+  },
+  {
+    "file": "assets/flower.webp",
+    "source": "PlokGame/Resources/polish-flowerDecor.png",
+    "sourceSHA256": "cbde7d5f1fcd0416dcbf760d3656f6f5af2ed44bda82a5d6ae6e5c80e864a048",
+    "use": "Original game artwork"
+  }
+]

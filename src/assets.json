@@ -1,0 +1,86 @@
+{
+  "cloud": {
+    "width": 1000,
+    "height": 563
+  },
+  "flower": {
+    "width": 180,
+    "height": 209
+  },
+  "gameplay": {
+    "width": 1600,
+    "height": 737
+  },
+  "garden": {
+    "width": 1600,
+    "height": 737
+  },
+  "hero": {
+    "width": 1672,
+    "height": 941
+  },
+  "home": {
+    "width": 1800,
+    "height": 600
+  },
+  "lantern": {
+    "width": 1000,
+    "height": 563
+  },
+  "linen": {
+    "width": 1000,
+    "height": 455
+  },
+  "logo": {
+    "width": 800,
+    "height": 267
+  },
+  "lumi": {
+    "width": 420,
+    "height": 448
+  },
+  "meadow": {
+    "width": 1000,
+    "height": 667
+  },
+  "milo-rest": {
+    "width": 600,
+    "height": 600
+  },
+  "milo": {
+    "width": 650,
+    "height": 711
+  },
+  "nori": {
+    "width": 420,
+    "height": 446
+  },
+  "peach": {
+    "width": 140,
+    "height": 140
+  },
+  "picnic": {
+    "width": 900,
+    "height": 600
+  },
+  "pip-rest": {
+    "width": 500,
+    "height": 527
+  },
+  "pip": {
+    "width": 500,
+    "height": 527
+  },
+  "ribbon": {
+    "width": 1000,
+    "height": 563
+  },
+  "sharing": {
+    "width": 1600,
+    "height": 737
+  },
+  "tansy": {
+    "width": 420,
+    "height": 460
+  }
+}
