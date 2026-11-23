@@ -32,9 +32,9 @@ Vercel CLI is also supported: run `vercel` from this directory after signing in.
 
 Official reference: https://vercel.com/docs/project-configuration/vercel-json
 
-## Temporary details and launch switch
+## Website details and launch switch
 
-The owner explicitly requested temporary publisher, contact and domain information. These are deliberately blank in **site.config.json**. The UI uses honest pre-release copy, without a fake email address or App Store destination.
+The confirmed website is **https://playragtag.xyz** and the public support email is **hi@playragtag.xyz**, configured in **site.config.json**. The publisher name remains temporary, and the App Store URL will be added when available. The site remains in coming-soon mode pending final publication review.
 
 | Field | What to put here |
 | --- | --- |
@@ -66,7 +66,7 @@ This intentionally fails while required public identity/contact/domain details a
 - `/privacy` — game saves, Apple processing, family controls, hosting requests and support messages.
 - `/404` — a friendly missing-page screen (Vercel uses the built `404.html`).
 
-After deployment, use **https://YOUR-ACTUAL-DOMAIN/support** for the App Store Support URL and **https://YOUR-ACTUAL-DOMAIN/privacy** for the Privacy Policy URL. The iOS app still needs its own in-app privacy/support links updated after the URLs are live; this website does not change the app.
+After deployment, use **https://playragtag.xyz/support** for the App Store Support URL and **https://playragtag.xyz/privacy** for the Privacy Policy URL. The iOS app still needs its own in-app privacy/support links updated after the URLs are live; this website does not change the app.
 
 ## Content and privacy notes
 

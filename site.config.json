@@ -1,11 +1,11 @@
 {
   "title": "Ragtag",
   "publisherName": "",
-  "supportEmail": "",
-  "siteUrl": "",
+  "supportEmail": "hi@playragtag.xyz",
+  "siteUrl": "https://playragtag.xyz",
   "appStoreUrl": "",
   "launchStatus": "coming-soon",
-  "policyDate": "2026-11-22",
+  "policyDate": "2026-11-23",
   "supportRetentionDays": 90,
   "contentReviewed": false
 }

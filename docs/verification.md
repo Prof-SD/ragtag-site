@@ -27,3 +27,7 @@ The website has not been deployed to Vercel. The publisher, support email, domai
 The site's accessibility work includes semantic headings with image alternatives, keyboard-operable native FAQ disclosures, visible focus, a skip link, contrast-conscious colours, responsive controls and reduced-motion support. It has not received an independent accessibility audit or a full physical-device/Safari test matrix.
 
 The game's own release gates remain separate. After deployment, the final `/privacy` and `/support` URLs must be added to App Store Connect and the app's grown-up area. No app code, purchase configuration or release status was changed by this website work.
+
+## Domain and contact update — 23 November 2026
+
+The owner supplied `playragtag.xyz` and `hi@playragtag.xyz`. The canonical website origin, social metadata and support/privacy email links now use those values. The privacy revision date is 23 November 2026. The publisher name, final content review and live App Store URL remain outstanding; coming-soon and noindex behaviour are unchanged. This configuration update does not configure or verify DNS, mailbox delivery or Vercel domain attachment.
